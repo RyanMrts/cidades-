@@ -1,0 +1,15 @@
+C:\Users\user\Documents\litoral\bin\Debug\net7.0\litoral.exe
+C:\Users\user\Documents\litoral\bin\Debug\net7.0\litoral.deps.json
+C:\Users\user\Documents\litoral\bin\Debug\net7.0\litoral.runtimeconfig.json
+C:\Users\user\Documents\litoral\bin\Debug\net7.0\litoral.dll
+C:\Users\user\Documents\litoral\bin\Debug\net7.0\litoral.pdb
+C:\Users\user\Documents\litoral\obj\Debug\net7.0\litoral.csproj.AssemblyReference.cache
+C:\Users\user\Documents\litoral\obj\Debug\net7.0\litoral.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\litoral\obj\Debug\net7.0\litoral.AssemblyInfoInputs.cache
+C:\Users\user\Documents\litoral\obj\Debug\net7.0\litoral.AssemblyInfo.cs
+C:\Users\user\Documents\litoral\obj\Debug\net7.0\litoral.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\litoral\obj\Debug\net7.0\litoral.dll
+C:\Users\user\Documents\litoral\obj\Debug\net7.0\refint\litoral.dll
+C:\Users\user\Documents\litoral\obj\Debug\net7.0\litoral.pdb
+C:\Users\user\Documents\litoral\obj\Debug\net7.0\litoral.genruntimeconfig.cache
+C:\Users\user\Documents\litoral\obj\Debug\net7.0\ref\litoral.dll
